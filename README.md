@@ -1,6 +1,6 @@
 # PantryPal
 
-#This is web app which helps to connect people those who are in need of food and those who wants to donate extra food to food banks or can upload it. 
+#This is web app which helps to connect people those who wants to donate extra food to food banks or can upload it. 
 #
 #
 #
